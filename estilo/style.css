@@ -1,0 +1,213 @@
+@charset "UTF-8"
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+
+p {
+    padding-bottom: 1px;
+
+}
+
+p.paragrafo {
+    margin-top: 10px;
+}
+
+div {
+    border-radius: 7px;
+    border: 2px solid lightblue;
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.37);
+}
+
+div > h1 {
+    color: #185566;
+    font-weight: bolder;
+    text-decoration: underline;
+
+    position: absolute;
+    left: 50%;
+    top: 3%;
+    transform: translate(-30%, -30%);
+}
+
+div#cabeçalho {
+    width: 1200px;
+    height: 348px;
+    margin: auto;
+    background-color: white;
+}
+
+div > h4#concluido {
+    font-size: 25px;
+    
+    position: absolute;
+    top: 9%;
+    left: 28%;
+    transform: translate(29%, -30%);
+}
+
+div#foto {
+    width: 300px;
+    height: 288px;
+    margin-top: 20px;
+    padding-top: 20px;
+    background-image: url(imagem/Aurora\ Boreal\ 650.jpg);
+    background-repeat: no-repeat;
+}
+
+ul {
+    position: absolute;
+    left: 50%;
+    top: 26%;
+    transform: translate(-46%, -30%);
+}
+
+ul > li {
+    padding-bottom: 8px;
+}
+
+h2 {
+    margin: auto;
+    margin-bottom: 0px;
+    height: 20px;
+    padding-bottom: 20px;
+    font-size: 28px;
+    color: white;
+    background-image: linear-gradient(to Left, lightblue, #07ABD9, #185566, #022E3B);
+}
+
+h3 {
+    padding-bottom: 12px;
+    font-size: 21px;
+    height: 17px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    background-image: linear-gradient(to Left, rgb(229, 238, 241), rgb(207, 235, 245), lightblue, #07ABD9);
+    
+}
+
+div#pessoais {
+    width: 1200px;
+    height: 340px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+
+div#objetivo {
+    width: 1200px;
+    height: 111px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white; 
+}
+
+div#caracteristicas {
+    width: 1200px;
+    height: 254px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#java {
+    width: 1200px;
+    height: 294px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#html {
+    width: 1200px;
+    height: 255px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#excel {
+    width: 1200px;
+    height: 255px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#fatec {
+    width: 1200px;
+    height: 214px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#micro {
+    width: 1200px;
+    height: 214px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#gestao {
+    width: 1200px;
+    height: 214px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#ingles {
+    width: 1200px;
+    height: 214px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#patru {
+    width: 1200px;
+    height: 214px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#linx {
+    width: 1200px;
+    height: 278px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#selecont {
+    width: 1200px;
+    height: 262px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+div#latina {
+    width: 1200px;
+    height: 261px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+@media print {
+    body {
+        background-color: black;
+    }
+}
