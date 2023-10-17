@@ -205,9 +205,3 @@ div#latina {
     background-color: white;
     margin-bottom: 50px;
 }
-
-@media print {
-    body {
-        background-color: black;
-    }
-}
