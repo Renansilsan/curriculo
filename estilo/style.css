@@ -213,8 +213,8 @@ div#latina {
     }
 
     div#foto {
-        height: 225px;
-        width: 1750px;
+        height: 235px;
+        width: 175px;
     }
 
     div#cabeçalho {
@@ -225,7 +225,7 @@ div#latina {
         font-size: 1.4em;
 
         position: absolute;
-        top: 7%;
+        top: 5%;
         left: 30%;
         transform: translate(10%, -30%);
     }
@@ -351,7 +351,7 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 23%;
+        top: 17%;
         left: 30%;
         transform: translate(-3%, -30%);
     }
@@ -461,7 +461,7 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 17%;
+        top: 22%;
         left: 30%;
         transform: translate(-6%, -30%);
     }
