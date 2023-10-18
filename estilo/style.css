@@ -434,7 +434,7 @@ div#latina {
 
     div#foto {
         height: 250px;
-        width: 250px;
+        width: 265px;
     }
 
     div#cabeçalho {
@@ -461,7 +461,7 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 27%;
+        top: 17%;
         left: 30%;
         transform: translate(-6%, -30%);
     }
