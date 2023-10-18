@@ -209,11 +209,10 @@ div#latina {
 @media screen and (max-width: 760px) {
     body {
         font-size: 1em;
-        background-color: black;
     }
 
     div#foto {
-        height: 235px;
+        height: 222px;
         width: 175px;
     }
 
@@ -335,9 +334,9 @@ div#latina {
         font-size: 1.4em;
 
         position: absolute;
-        top: 7%;
+        top: 6%;
         left: 30%;
-        transform: translate(5%, -30%);
+        transform: translate(3%, -30%);
     }
 
     div > h1 {
@@ -351,7 +350,7 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 17%;
+        top: 19%;
         left: 30%;
         transform: translate(-3%, -30%);
     }
