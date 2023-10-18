@@ -323,7 +323,7 @@ div#latina {
 
     div#foto {
         height: 225px;
-        width: 170px;
+        width: 185px;
     }
 
     div#cabeçalho {
@@ -434,11 +434,11 @@ div#latina {
 
     div#foto {
         height: 250px;
-        width: 265px;
+        width: 255px;
     }
 
     div#cabeçalho {
-        height: 340px;
+        height: 343px;
     }
 
     div > h4#concluido {
@@ -447,7 +447,7 @@ div#latina {
         position: absolute;
         top: 7%;
         left: 30%;
-        transform: translate(9%, -30%);
+        transform: translate(6%, -30%);
     }
 
     div > h1 {
@@ -556,7 +556,7 @@ div#latina {
         position: absolute;
         top: 8%;
         left: 35%;
-        transform: translate(-3%, -30%);
+        transform: translate(-10%, -30%);
     }
 
     div > h1 {
@@ -565,14 +565,14 @@ div#latina {
         position: absolute;
         top: 0%;
         left: 30%;
-        transform: translate(17%, -30%);
+        transform: translate(27%, -30%);
     }
 
     ul {
         position: absolute;
-        top: 24%;
+        top: 21%;
         left: 35%;
-        transform: translate(-6%, -30%);
+        transform: translate(-4%, -30%);
     }
 
     h2 {
