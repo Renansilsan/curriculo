@@ -444,9 +444,9 @@ div#latina {
         font-size: 1.4em;
 
         position: absolute;
-        top: 7%;
+        top: 8%;
         left: 30%;
-        transform: translate(-17%, -30%);
+        transform: translate(-7%, -30%);
     }
 
     div > h1 {
@@ -455,14 +455,14 @@ div#latina {
         position: absolute;
         top: 0%;
         left: 30%;
-        transform: translate(20%, -30%);
+        transform: translate(40%, -30%);
     }
 
     ul {
         position: absolute;
-        top: 21%;
+        top: 22%;
         left: 30%;
-        transform: translate(-10%, -30%);
+        transform: translate(10%, -30%);
     }
 
     h2 {
@@ -555,7 +555,7 @@ div#latina {
         position: absolute;
         top: 8%;
         left: 35%;
-        transform: translate(0%, -30%);
+        transform: translate(3%, -30%);
     }
 
     div > h1 {
