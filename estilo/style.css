@@ -217,7 +217,7 @@ div#latina {
     }
 
     div#cabeçalho {
-        height: 325px;
+        height: 313px;
     }
 
     div > h4#concluido {
@@ -323,19 +323,19 @@ div#latina {
 
     div#foto {
         height: 225px;
-        width: 200px;
+        width: 185px;
     }
 
     div#cabeçalho {
-        height: 290px;
+        height: 305px;
     }
 
     div > h4#concluido {
         font-size: 1.4em;
 
         position: absolute;
-        top: 6%;
-        left: 30%;
+        top: 5%;
+        left: 33%;
         transform: translate(3%, -30%);
     }
 
@@ -350,8 +350,8 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 19%;
-        left: 30%;
+        top: 18%;
+        left: 33%;
         transform: translate(-3%, -30%);
     }
 
@@ -546,7 +546,7 @@ div#latina {
     }
 
     div#cabeçalho {
-        height: 340px;
+        height: 360px;
     }
 
     div > h4#concluido {
@@ -554,7 +554,7 @@ div#latina {
 
         position: absolute;
         top: 9%;
-        left: 30%;
+        left: 35%;
         transform: translate(-14%, -30%);
     }
 
@@ -569,8 +569,8 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 27%;
-        left: 30%;
+        top: 23%;
+        left: 35%;
         transform: translate(-6%, -30%);
     }
 
