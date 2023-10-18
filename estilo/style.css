@@ -217,7 +217,7 @@ div#latina {
     }
 
     div#cabeçalho {
-        height: 320px;
+        height: 350px;
     }
 
     div > h4#concluido {
@@ -225,7 +225,7 @@ div#latina {
 
         position: absolute;
         top: 6%;
-        left: 25%;
+        left: 15%;
         transform: translate(40%, -30%);
     }
 
