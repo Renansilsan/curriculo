@@ -209,11 +209,12 @@ div#latina {
 @media screen and (max-width: 760px) {
     body {
         font-size: 1em;
+        background-color: black;
     }
 
     div#foto {
-        height: 215px;
-        width: 160px;
+        height: 225px;
+        width: 1750px;
     }
 
     div#cabeçalho {
@@ -240,7 +241,7 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 25%;
+        top: 19%;
         left: 30%;
         transform: translate(-2%, -30%);
     }
@@ -429,7 +430,6 @@ div#latina {
 @media screen and (min-width: 992px) and (max-width: 1200px) {
     body {
         font-size: 1.2em;
-        background-color: black;
     }
 
     div#foto {
