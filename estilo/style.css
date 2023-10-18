@@ -205,3 +205,441 @@ div#latina {
     background-color: white;
     margin-bottom: 50px;
 }
+
+@media screen and (max-width: 760px) {
+    body {
+        font-size: 1em;
+    }
+
+    div#foto {
+        height: 215px;
+        width: 160px;
+    }
+
+    div#cabeçalho {
+        height: 325px;
+    }
+
+    div > h4#concluido {
+        font-size: 1.4em;
+
+        position: absolute;
+        top: 7%;
+        left: 30%;
+        transform: translate(10%, -30%);
+    }
+
+    div > h1 {
+        font-size: 2em;
+
+        position: absolute;
+        top: 0%;
+        left: 30%;
+        transform: translate(10%, -30%);
+    }
+
+    ul {
+        position: absolute;
+        top: 25%;
+        left: 30%;
+        transform: translate(-2%, -30%);
+    }
+
+    h2 {
+        font-size: 1.5em;
+        height: 10px;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        height: 11px;
+    }
+
+    div#pessoais {
+        height: 287px;
+    }
+    
+    
+    div#objetivo {
+        height: 95px;
+        
+    }
+    
+    div#caracteristicas {
+        height: 220px;
+        
+    }
+    
+    div#java {
+        height: 250px;
+    }
+    
+    div#html {
+        height: 220px;
+    }
+    
+    div#excel {
+        height: 220px;
+    }
+    
+    div#fatec {
+        height: 184px;
+    }
+    
+    div#micro {
+        height: 184px;
+    }
+    
+    div#gestao {
+        height: 184px;
+    }
+    
+    div#ingles {
+        height: 184px;
+    }
+    
+    div#patru {
+        height: 184px;
+    }
+    
+    div#linx {
+        height: 230px;
+    }
+    
+    div#selecont {
+        height: 200px;
+    }
+    
+    div#latina {
+        height: 220px;
+    }
+    
+}
+
+@media screen and (min-width: 760px) and (max-width: 992px) {
+    body {
+        font-size: 1em;
+    }
+
+    div#foto {
+        height: 225px;
+        width: 200px;
+    }
+
+    div#cabeçalho {
+        height: 290px;
+    }
+
+    div > h4#concluido {
+        font-size: 1.4em;
+
+        position: absolute;
+        top: 7%;
+        left: 30%;
+        transform: translate(5%, -30%);
+    }
+
+    div > h1 {
+        font-size: 2em;
+
+        position: absolute;
+        top: 0%;
+        left: 30%;
+        transform: translate(10%, -30%);
+    }
+
+    ul {
+        position: absolute;
+        top: 23%;
+        left: 30%;
+        transform: translate(-3%, -30%);
+    }
+
+    h2 {
+        font-size: 1.4em;
+        height: 10px;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        height: 13px;
+    }
+
+    div#pessoais {
+        height: 287px;
+    }
+    
+    
+    div#objetivo {
+        height: 95px;
+        
+    }
+    
+    div#caracteristicas {
+        height: 220px;
+        
+    }
+    
+    div#java {
+        height: 250px;
+    }
+    
+    div#html {
+        height: 220px;
+    }
+    
+    div#excel {
+        height: 220px;
+    }
+    
+    div#fatec {
+        height: 184px;
+    }
+    
+    div#micro {
+        height: 184px;
+    }
+    
+    div#gestao {
+        height: 184px;
+    }
+    
+    div#ingles {
+        height: 184px;
+    }
+    
+    div#patru {
+        height: 184px;
+    }
+    
+    div#linx {
+        height: 230px;
+    }
+    
+    div#selecont {
+        height: 200px;
+    }
+    
+    div#latina {
+        height: 220px;
+    }
+    
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    body {
+        font-size: 1.2em;
+    }
+
+    div#foto {
+        height: 250px;
+        width: 250px;
+    }
+
+    div#cabeçalho {
+        height: 340px;
+    }
+
+    div > h4#concluido {
+        font-size: 1.4em;
+
+        position: absolute;
+        top: 9%;
+        left: 30%;
+        transform: translate(-14%, -30%);
+    }
+
+    div > h1 {
+        font-size: 2em;
+
+        position: absolute;
+        top: 0%;
+        left: 30%;
+        transform: translate(10%, -30%);
+    }
+
+    ul {
+        position: absolute;
+        top: 27%;
+        left: 30%;
+        transform: translate(-6%, -30%);
+    }
+
+    h2 {
+        font-size: 1.5em;
+        height: 10px;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        height: 11px;
+    }
+
+    div#pessoais {
+        height: 340px;
+    }
+    
+    
+    div#objetivo {
+        height: 110px;
+        
+    }
+    
+    div#caracteristicas {
+        height: 255px;
+        
+    }
+    
+    div#java {
+        height: 285px;
+    }
+    
+    div#html {
+        height: 260px;
+    }
+    
+    div#excel {
+        height: 260px;
+    }
+    
+    div#fatec {
+        height: 217px;
+    }
+    
+    div#micro {
+        height: 215px;
+    }
+    
+    div#gestao {
+        height: 215px;
+    }
+    
+    div#ingles {
+        height: 215px;
+    }
+    
+    div#patru {
+        height: 215px;
+    }
+    
+    div#linx {
+        height: 268px;
+    }
+    
+    div#selecont {
+        height: 258px;
+    }
+    
+    div#latina {
+        height: 257px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    body {
+        font-size: 1.2em;
+    }
+
+    div#foto {
+        height: 280px;
+        width: 280px;
+    }
+
+    div#cabeçalho {
+        height: 340px;
+    }
+
+    div > h4#concluido {
+        font-size: 1.4em;
+
+        position: absolute;
+        top: 9%;
+        left: 30%;
+        transform: translate(-14%, -30%);
+    }
+
+    div > h1 {
+        font-size: 2em;
+
+        position: absolute;
+        top: 0%;
+        left: 30%;
+        transform: translate(10%, -30%);
+    }
+
+    ul {
+        position: absolute;
+        top: 27%;
+        left: 30%;
+        transform: translate(-6%, -30%);
+    }
+
+    h2 {
+        font-size: 1.5em;
+        height: 10px;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        height: 11px;
+    }
+
+    div#pessoais {
+        height: 340px;
+    }
+    
+    
+    div#objetivo {
+        height: 110px;
+        
+    }
+    
+    div#caracteristicas {
+        height: 255px;
+        
+    }
+    
+    div#java {
+        height: 285px;
+    }
+    
+    div#html {
+        height: 260px;
+    }
+    
+    div#excel {
+        height: 260px;
+    }
+    
+    div#fatec {
+        height: 217px;
+    }
+    
+    div#micro {
+        height: 215px;
+    }
+    
+    div#gestao {
+        height: 215px;
+    }
+    
+    div#ingles {
+        height: 215px;
+    }
+    
+    div#patru {
+        height: 215px;
+    }
+    
+    div#linx {
+        height: 268px;
+    }
+    
+    div#selecont {
+        height: 258px;
+    }
+    
+    div#latina {
+        height: 257px;
+    }
+}
