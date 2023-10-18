@@ -446,7 +446,7 @@ div#latina {
         position: absolute;
         top: 7%;
         left: 30%;
-        transform: translate(3%, -30%);
+        transform: translate(6%, -30%);
     }
 
     div > h1 {
@@ -555,7 +555,7 @@ div#latina {
         position: absolute;
         top: 7%;
         left: 35%;
-        transform: translate(-15%, -30%);
+        transform: translate(-11%, -30%);
     }
 
     div > h1 {
