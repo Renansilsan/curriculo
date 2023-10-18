@@ -323,7 +323,7 @@ div#latina {
 
     div#foto {
         height: 225px;
-        width: 155px;
+        width: 170px;
     }
 
     div#cabeçalho {
@@ -336,7 +336,7 @@ div#latina {
         position: absolute;
         top: 5%;
         left: 33%;
-        transform: translate(-3%, -30%);
+        transform: translate(-5%, -30%);
     }
 
     div > h1 {
@@ -346,7 +346,7 @@ div#latina {
         position: absolute;
         top: -1%;
         left: 30%;
-        transform: translate(15%, -30%);
+        transform: translate(22%, -30%);
     }
 
     ul {
@@ -447,7 +447,7 @@ div#latina {
         position: absolute;
         top: 7%;
         left: 30%;
-        transform: translate(7%, -30%);
+        transform: translate(9%, -30%);
     }
 
     div > h1 {
@@ -463,7 +463,7 @@ div#latina {
         position: absolute;
         top: 22%;
         left: 30%;
-        transform: translate(10%, -30%);
+        transform: translate(-5%, -30%);
     }
 
     h2 {
@@ -556,7 +556,7 @@ div#latina {
         position: absolute;
         top: 8%;
         left: 35%;
-        transform: translate(3%, -30%);
+        transform: translate(-3%, -30%);
     }
 
     div > h1 {
@@ -565,14 +565,14 @@ div#latina {
         position: absolute;
         top: 0%;
         left: 30%;
-        transform: translate(10%, -30%);
+        transform: translate(17%, -30%);
     }
 
     ul {
         position: absolute;
-        top: 21%;
+        top: 24%;
         left: 35%;
-        transform: translate(0%, -30%);
+        transform: translate(-6%, -30%);
     }
 
     h2 {
