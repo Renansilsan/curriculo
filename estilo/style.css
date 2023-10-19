@@ -17,6 +17,7 @@ body {
 
 p {
     padding-bottom: 1px;
+    text-indent: 5px;
 
 }
 
@@ -43,7 +44,7 @@ div > h1 {
 
 div#cabeçalho {
     width: 385px;
-    height: 220px;
+    height: 223px;
     margin: auto;
     background-color: white;
 }
@@ -52,10 +53,9 @@ div > h4#concluido {
     font-size: 1.4em;
 
     position: absolute;
-    top: 2%;
+    top: 5%;
     left: 27%;
     transform: translate(40%, -30%);
-    transform: translate(20%, -30%);
 }
 
 div#foto {
@@ -69,9 +69,9 @@ div#foto {
 
 ul {
     position: absolute;
-    top: 15%;
+    top: 8%;
     left: 1%;
-    transform: translate(28%, -30%);
+    transform: translate(40%, -30%);
 }
 
 ul > li {
@@ -81,7 +81,6 @@ ul > li {
 h2 {
     margin: auto;
     margin-bottom: 0px;
-    padding: 9px;
     height: 8px;
     font-size: 1.4em;
     color: white;
@@ -91,7 +90,6 @@ h2 {
 h3 {
     font-size: 1.3em;
     height: 7px;
-    padding: 7px;
     margin-bottom: 10px;
     margin-top: 0px;
     background-image: linear-gradient(to Left, rgb(229, 238, 241), rgb(207, 235, 245), lightblue, #07ABD9);
@@ -100,7 +98,7 @@ h3 {
 
 div#pessoais {
     width: 385px;
-    height: 197px;
+    height: 195px;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -109,9 +107,8 @@ div#pessoais {
 
 
 div#objetivo {
-    height: 80px;
+    height: 78px;
     width: 395px;
-    padding: 5px;
     margin: auto;
     margin-top: 10px;
     background-color: white; 
@@ -119,7 +116,7 @@ div#objetivo {
 
 div#caracteristicas {
     width: 385px;
-    height: 153px;
+    height: 149px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -199,7 +196,7 @@ div#linx {
 
 div#selecont {
     width: 385px;
-    height: 146px;
+    height: 151px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -207,7 +204,7 @@ div#selecont {
 
 div#latina {
     width: 385px;
-    height: 164px;
+    height: 166px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
