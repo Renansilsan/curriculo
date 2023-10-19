@@ -215,10 +215,18 @@ div#latina {
 
 @media screen and (min-width: 992px) and (max-width: 1200px) {
 
+    body {
+        font-size: 1.1em;
+    }
+
     div#foto {
+        width: 270px;
+        height: 255px;
     }
 
     div#cabeçalho {
+        width: 950px;
+        height: 330px;
     }
 
     div > h4#concluido {
@@ -235,13 +243,13 @@ div#latina {
 
         position: absolute;
         top: 0%;
-        left: 30%;
+        left: 22%;
         transform: translate(45%, -30%);
     }
 
     ul {
         position: absolute;
-        top: 22%;
+        top: 25%;
         left: 30%;
         transform: translate(0%, -30%);
     }
@@ -303,7 +311,7 @@ div#latina {
 @media screen and (min-width: 1200px) {
 
     body {
-        background-color: black;
+        
     }
 
     div#foto {
