@@ -53,8 +53,8 @@ div > h4#concluido {
     font-size: 1.4em;
 
     position: absolute;
-    top: 5%;
-    left: 27%;
+    top: 6%;
+    left: 26%;
     transform: translate(40%, -30%);
 }
 
@@ -69,8 +69,8 @@ div#foto {
 
 ul {
     position: absolute;
-    top: 18%;
-    left: 1%;
+    top: 14%;
+    left: 2%;
     transform: translate(25%, -30%);
 }
 
