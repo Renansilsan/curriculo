@@ -44,7 +44,7 @@ div > h1 {
 
 div#cabeçalho {
     width: 385px;
-    height: 223px;
+    height: 230px;
     margin: auto;
     background-color: white;
 }
@@ -54,7 +54,7 @@ div > h4#concluido {
 
     position: absolute;
     top: 6%;
-    left: 24%;
+    left: 26%;
     transform: translate(40%, -30%);
 }
 
