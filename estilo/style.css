@@ -234,7 +234,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 30%;
+        left: 36%;
         transform: translate(12%, -30%);
     }
 
@@ -249,19 +249,20 @@ div#latina {
 
     ul {
         position: absolute;
-        top: 22%;
-        left: 30%;
+        top: 25%;
+        left: 36%;
         transform: translate(0%, -30%);
     }
 
     h2 {
         margin-bottom: 0px;
-        height: 10px;
+        height: 25px;
         font-size: 1.5em;
     }
 
     h3 {
-        height: 7px;
+        height: 18px;
+        font-size: 1.2em;
         margin-bottom: 10px;
         margin-top: 0px;
     }
