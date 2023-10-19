@@ -209,7 +209,7 @@ div#latina {
 
 @media screen and (max-width: 760px) {
     body {
-        font-size: 0.6em;
+        font-size: 0.5em;
     }
 
     div#foto {
@@ -217,7 +217,7 @@ div#latina {
         width: 120px;
     }
 
-    div#cabeçalho {
+    div#cabeçalho {Upload
         height: 440px;
     }
 
@@ -226,7 +226,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 26%;
+        left: 30%;
         transform: translate(40%, -30%);
     }
 
