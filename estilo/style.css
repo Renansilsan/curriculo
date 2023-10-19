@@ -7,7 +7,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 19px;
-    text-align: justify;
 }
 
 p {
@@ -31,7 +30,7 @@ div > h1 {
     text-decoration: underline;
 
     position: absolute;
-    left: 50%;
+    left: 30%;
     top: 3%;
     transform: translate(-20%, -30%);
 }
@@ -48,7 +47,7 @@ div > h4#concluido {
     
     position: absolute;
     top: 9%;
-    left: 28%;
+    left: 23%;
     transform: translate(39%, -30%);
 }
 
@@ -64,7 +63,7 @@ div#foto {
 ul {
     position: absolute;
     left: 50%;
-    top: 21%;
+    top: 15%;
     transform: translate(-46%, -30%);
 }
 
