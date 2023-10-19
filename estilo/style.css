@@ -16,6 +16,7 @@ p {
 
 p.paragrafo {
     margin-top: 10px;
+    text-indent: 30px;
 }
 
 div {
@@ -208,7 +209,7 @@ div#latina {
 
 @media screen and (max-width: 760px) {
     body {
-        font-size: 1em;
+        font-size: 0.8em;
     }
 
     div#foto {
@@ -225,7 +226,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 20%;
+        left: 23%;
         transform: translate(40%, -30%);
     }
 
@@ -234,7 +235,7 @@ div#latina {
 
         position: absolute;
         top: 0%;
-        left: 7%;
+        left: 4%;
         transform: translate(50%, -30%);
     }
 
