@@ -36,13 +36,13 @@ div > h1 {
 
     position: absolute;
     top: 0%;
-    left: 4%;
+    left: 10%;
     transform: translate(20%, -30%);
 }
 
 div#cabeçalho {
     width: 405px;
-    height: 390px;
+    height: 330px;
     margin: auto;
     background-color: white;
 }
@@ -52,7 +52,7 @@ div > h4#concluido {
 
     position: absolute;
     top: 8%;
-    left: 30%;
+    left: 18%;
     transform: translate(40%, -30%);
     transform: translate(20%, -30%);
 }
@@ -68,8 +68,8 @@ div#foto {
 
 ul {
     position: absolute;
-    top: 25%;
-    left: 0%;
+    top: 15%;
+    left: 3%;
     transform: translate(28%, -30%);
 }
 
@@ -109,7 +109,7 @@ div#pessoais {
 
 div#objetivo {
     height: 127px;
-    width: 405px;
+    width: 385px;
     padding: 5px;
     margin: auto;
     margin-top: 10px;
@@ -117,7 +117,7 @@ div#objetivo {
 }
 
 div#caracteristicas {
-    width: 405px;
+    width: 385px;
     height: 220px;
     margin: auto;
     margin-top: 10px;
@@ -125,7 +125,7 @@ div#caracteristicas {
 }
 
 div#java {
-    width: 405px;
+    width: 385px;
     height: 250px;
     margin: auto;
     margin-top: 10px;
@@ -133,7 +133,7 @@ div#java {
 }
 
 div#html {
-    width: 405px;
+    width: 385px;
     height: 220px;
     margin: auto;
     margin-top: 10px;
@@ -141,7 +141,7 @@ div#html {
 }
 
 div#excel {
-    width: 405px;
+    width: 385px;
     height: 220px;
     margin: auto;
     margin-top: 10px;
@@ -149,7 +149,7 @@ div#excel {
 }
 
 div#fatec {
-    width: 405px;
+    width: 385px;
     height: 184px;
     margin: auto;
     margin-top: 10px;
@@ -157,7 +157,7 @@ div#fatec {
 }
 
 div#micro {
-    width: 405px;
+    width: 385px;
     height: 184px;
     margin: auto;
     margin-top: 10px;
@@ -165,7 +165,7 @@ div#micro {
 }
 
 div#gestao {
-    width: 405px;
+    width: 385px;
     height: 184px;
     margin: auto;
     margin-top: 10px;
@@ -173,7 +173,7 @@ div#gestao {
 }
 
 div#ingles {
-    width: 405px;
+    width: 385px;
     height: 184px;
     margin: auto;
     margin-top: 10px;
@@ -181,7 +181,7 @@ div#ingles {
 }
 
 div#patru {
-    width: 405px;
+    width: 385px;
     height: 184px;
     margin: auto;
     margin-top: 10px;
@@ -189,7 +189,7 @@ div#patru {
 }
 
 div#linx {
-    width: 405px;
+    width: 385px;
     height: 230px;
     margin: auto;
     margin-top: 10px;
@@ -197,7 +197,7 @@ div#linx {
 }
 
 div#selecont {
-    width: 405px;
+    width: 385px;
     height: 200px;
     margin: auto;
     margin-top: 10px;
@@ -205,7 +205,7 @@ div#selecont {
 }
 
 div#latina {
-    width: 405px;
+    width: 385px;
     height: 220px;
     margin: auto;
     margin-top: 10px;
