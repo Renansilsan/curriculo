@@ -33,7 +33,7 @@ div {
 div > h1 {
     color: #185566;
     font-weight: bolder;
-    font-size: 1.8em;
+    font-size: 1.9em;
 
     position: absolute;
     top: 2%;
@@ -43,7 +43,7 @@ div > h1 {
 
 div#cabeçalho {
     width: 385px;
-    height: 210px;
+    height: 230px;
     margin: auto;
     background-color: white;
 }
@@ -52,7 +52,7 @@ div > h4#concluido {
     font-size: 1.4em;
 
     position: absolute;
-    top: 7%;
+    top: 4%;
     left: 27%;
     transform: translate(40%, -30%);
     transform: translate(20%, -30%);
@@ -69,8 +69,8 @@ div#foto {
 
 ul {
     position: absolute;
-    top: 15%;
-    left: 3%;
+    top: 12%;
+    left: 1%;
     transform: translate(28%, -30%);
 }
 
@@ -82,16 +82,15 @@ h2 {
     margin: auto;
     margin-bottom: 0px;
     padding: 10px;
-    height: 10px;
-    font-size: 1.3em;
+    height: 9px;
+    font-size: 1.4em;
     color: white;
     background-image: linear-gradient(to Left, lightblue, #07ABD9, #185566, #022E3B);
 }
 
 h3 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     height: 5px;
-    padding: 10px;
     margin-bottom: 10px;
     margin-top: 0px;
     background-image: linear-gradient(to Left, rgb(229, 238, 241), rgb(207, 235, 245), lightblue, #07ABD9);
@@ -110,7 +109,7 @@ div#pessoais {
 
 div#objetivo {
     height: 70px;
-    width: 385px;
+    width: 395px;
     padding: 5px;
     margin: auto;
     margin-top: 10px;
@@ -119,7 +118,7 @@ div#objetivo {
 
 div#caracteristicas {
     width: 385px;
-    height: 150px;
+    height: 155px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -127,7 +126,7 @@ div#caracteristicas {
 
 div#java {
     width: 385px;
-    height: 165px;
+    height: 173px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -135,7 +134,7 @@ div#java {
 
 div#html {
     width: 385px;
-    height: 140px;
+    height: 148px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -143,7 +142,7 @@ div#html {
 
 div#excel {
     width: 385px;
-    height: 140px;
+    height: 148px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -151,7 +150,7 @@ div#excel {
 
 div#fatec {
     width: 385px;
-    height: 115px;
+    height: 123px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -159,7 +158,7 @@ div#fatec {
 
 div#micro {
     width: 385px;
-    height: 115px;
+    height: 123px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -167,7 +166,7 @@ div#micro {
 
 div#gestao {
     width: 385px;
-    height: 115px;
+    height: 123px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -175,7 +174,7 @@ div#gestao {
 
 div#ingles {
     width: 385px;
-    height: 115px;
+    height: 123px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -183,7 +182,7 @@ div#ingles {
 
 div#patru {
     width: 385px;
-    height: 115px;
+    height: 123px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -191,7 +190,7 @@ div#patru {
 
 div#linx {
     width: 385px;
-    height: 155px;
+    height: 173px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -199,7 +198,7 @@ div#linx {
 
 div#selecont {
     width: 385px;
-    height: 130px;
+    height: 148px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
@@ -207,7 +206,7 @@ div#selecont {
 
 div#latina {
     width: 385px;
-    height: 150px;
+    height: 168px;
     margin: auto;
     margin-top: 10px;
     background-color: white;
