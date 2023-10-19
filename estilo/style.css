@@ -212,8 +212,8 @@ div#latina {
     }
 
     div#foto {
-        height: 222px;
-        width: 175px;
+        height: 200px;
+        width: 150px;
     }
 
     div#cabeçalho {
@@ -262,7 +262,7 @@ div#latina {
     
     div#objetivo {
         height: 127px;
-        width: 430px;
+        width: 415px;
         
     }
     
@@ -555,7 +555,7 @@ div#latina {
 
         position: absolute;
         top: 9%;
-        left: 34%;
+        left: 33%;
         transform: translate(-6%, -30%);
     }
 
