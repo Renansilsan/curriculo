@@ -255,11 +255,17 @@ div#latina {
     }
 
     h2 {
-        
+        margin-bottom: 0px;
+        height: 10px;
+        padding-bottom: 7px;
+        font-size: 1.5em;
     }
 
     h3 {
-        
+        height: 7px;
+        padding-bottom: 7px;
+        margin-bottom: 10px;
+        margin-top: 0px;
     }
 
     div#pessoais {
@@ -268,8 +274,8 @@ div#latina {
     }
     
     div#objetivo {
-        width: 900px;
-        height: 200px;
+        width: 820px;
+        height: 80px;
     }
     
     div#caracteristicas {
