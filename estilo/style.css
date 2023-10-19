@@ -234,7 +234,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 36%;
+        left: 37%;
         transform: translate(12%, -30%);
     }
 
@@ -242,14 +242,14 @@ div#latina {
         font-size: 2em;
 
         position: absolute;
-        top: 0%;
-        left: 22%;
+        top: 1%;
+        left: 32%;
         transform: translate(45%, -30%);
     }
 
     ul {
         position: absolute;
-        top: 25%;
+        top: 22%;
         left: 36%;
         transform: translate(0%, -30%);
     }
@@ -269,72 +269,72 @@ div#latina {
 
     div#pessoais {
         width: 820px;
-        height: 280px;
+        height: 310px;
     }
     
     div#objetivo {
         width: 820px;
-        height: 140px;
+        height: 135px;
     }
     
     div#caracteristicas {
         width: 820px;
-        height: 250px;
+        height: 245px;
     }
     
     div#java {
         width: 820px;
-        height: 230px;
+        height: 240px;
     }
     
     div#html {
         width: 820px;
-        height: 215px;
+        height: 230px;
     }
     
     div#excel {
         width: 820px;
-        height: 215px;
+        height: 225px;
     }
     
     div#fatec {
         width: 820px;
-        height: 215px;
+        height: 212px;
     }
     
     div#micro {
         width: 820px;
-        height: 215px;
+        height: 212px;
     }
     
     div#gestao {
         width: 820px;
-        height: 215px;
+        height: 212px;
     }
     
     div#ingles {
         width: 820px;
-        height: 215px;
+        height: 212px;
     }
     
     div#patru {
         width: 820px;
-        height: 215px;
+        height: 212px;
     }
     
     div#linx {
         width: 820px;
-        height: 230px;
+        height: 255px;
     }
     
     div#selecont {
         width: 820px;
-        height: 230px;
+        height: 238px;
     }
     
     div#latina {
         width: 820px;
-        height: 230px;
+        height: 242px;
     }
 }
 
