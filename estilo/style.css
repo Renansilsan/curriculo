@@ -69,9 +69,9 @@ div#foto {
 
 ul {
     position: absolute;
-    top: 8%;
+    top: 18%;
     left: 1%;
-    transform: translate(40%, -30%);
+    transform: translate(25%, -30%);
 }
 
 ul > li {
@@ -82,6 +82,7 @@ h2 {
     margin: auto;
     margin-bottom: 0px;
     height: 8px;
+    padding-bottom: 7px;
     font-size: 1.4em;
     color: white;
     background-image: linear-gradient(to Left, lightblue, #07ABD9, #185566, #022E3B);
@@ -90,6 +91,7 @@ h2 {
 h3 {
     font-size: 1.3em;
     height: 7px;
+    padding-bottom: 7px;
     margin-bottom: 10px;
     margin-top: 0px;
     background-image: linear-gradient(to Left, rgb(229, 238, 241), rgb(207, 235, 245), lightblue, #07ABD9);
