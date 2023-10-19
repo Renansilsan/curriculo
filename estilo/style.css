@@ -263,8 +263,8 @@ div#latina {
     
     div#objetivo {
         height: 127px;
-        width: 415px;
-        margin-right: 10px;
+        width: 405px;
+        padding: 5px;
     }
     
     div#caracteristicas {
