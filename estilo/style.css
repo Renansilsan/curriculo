@@ -58,8 +58,8 @@ div > h4#concluido {
 }
 
 div#foto {
-    height: 180px;
-    width: 120px;
+    height: 130px;
+    width: 90px;
     margin-top: 20px;
     padding-top: 20px;
     background-image: url(imagem/Aurora\ Boreal\ 650.jpg);
@@ -98,7 +98,7 @@ h3 {
 }
 
 div#pessoais {
-    width: 405px;
+    width: 385px;
     height: 287px;
     margin: auto;
     margin-top: 10px;
