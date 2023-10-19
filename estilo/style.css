@@ -213,7 +213,7 @@ div#latina {
     margin-bottom: 50px;
 }
 
-@media screen and (min-width: 992px) and (max-width: 1200px) {
+@media screen and (min-width: 850px) and (max-width: 1200px) {
 
     body {
         font-size: 1.1em;
