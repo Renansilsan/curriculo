@@ -12,7 +12,7 @@ Fundo H3 - rgb(229, 238, 241), rgb(207, 235, 245), lightblue, #07ABD9
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.5em;
+    font-size: 0.8em;
 }
 
 p {
@@ -33,7 +33,7 @@ div {
 div > h1 {
     color: #185566;
     font-weight: bolder;
-    font-size: 1.5em;
+    font-size: 2em;
 
     position: absolute;
     top: 2%;
@@ -53,7 +53,7 @@ div > h4#concluido {
 
     position: absolute;
     top: 7%;
-    left: 33%;
+    left: 27%;
     transform: translate(40%, -30%);
     transform: translate(20%, -30%);
 }
@@ -81,14 +81,13 @@ ul > li {
 h2 {
     margin: auto;
     margin-bottom: 0px;
-    height: 6px;
+    height: 10px;
     font-size: 1.3em;
     color: white;
     background-image: linear-gradient(to Left, lightblue, #07ABD9, #185566, #022E3B);
 }
 
 h3 {
-    padding-bottom: 12px;
     font-size: 1.2em;
     height: 5px;
     margin-bottom: 10px;
