@@ -341,7 +341,7 @@ div#latina {
 @media screen and (min-width: 1200px) {
 
     body {
-        font-size: 1.1em;
+        font-size: 1.2em;
     }
 
     div#foto {
@@ -359,7 +359,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 36%;
+        left: 41%;
         transform: translate(15%, -30%);
     }
 
@@ -368,14 +368,14 @@ div#latina {
 
         position: absolute;
         top: 1%;
-        left: 32%;
+        left: 46%;
         transform: translate(45%, -30%);
     }
 
     ul {
         position: absolute;
         top: 22%;
-        left: 36%;
+        left: 41%;
         transform: translate(0%, -30%);
     }
 
@@ -393,73 +393,73 @@ div#latina {
     }
 
     div#pessoais {
-        width: 820px;
+        width: 900px;
         height: 313px;
     }
     
     div#objetivo {
-        width: 820px;
+        width: 900px;
         height: 120px;
     }
     
     div#caracteristicas {
-        width: 820px;
+        width: 900px;
         height: 237px;
     }
     
     div#java {
-        width: 820px;
+        width: 900px;
         height: 270px;
     }
     
     div#html {
-        width: 820px;
+        width: 900px;
         height: 240px;
     }
     
     div#excel {
-        width: 820px;
+        width: 900px;
         height: 240px;
     }
     
     div#fatec {
-        width: 820px;
+        width: 900px;
         height: 202px;
     }
     
     div#micro {
-        width: 820px;
+        width: 900px;
         height: 204px;
     }
     
     div#gestao {
-        width: 820px;
+        width: 900px;
         height: 204px;
     }
     
     div#ingles {
-        width: 820px;
+        width: 900px;
         height: 204px;
     }
     
     div#patru {
-        width: 820px;
+        width: 900px;
         height: 204px;
     }
     
     div#linx {
-        width: 820px;
+        width: 900px;
         height: 275px;
     }
     
     div#selecont {
-        width: 820px;
+        width: 900px;
         height: 243px;
     }
     
     div#latina {
-        width: 820px;
+        width: 900px;
         height: 265px;
     }
-    
+
 }
