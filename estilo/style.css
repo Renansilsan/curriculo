@@ -221,11 +221,15 @@ div#latina {
 
     div#foto {
         width: 240px;
-        height: 263px;
+        height: 215px;
+
+        position: absolute;
+        top: 8%;
+        left: 9%;
     }
 
     div#cabeçalho {
-        width: 820px;
+        width: 970px;
         height: 334px;
     }
 
@@ -234,7 +238,7 @@ div#latina {
 
         position: absolute;
         top: 8%;
-        left: 36%;
+        left: 40%;
         transform: translate(15%, -30%);
     }
 
@@ -243,14 +247,14 @@ div#latina {
 
         position: absolute;
         top: 1%;
-        left: 32%;
+        left: 24%;
         transform: translate(45%, -30%);
     }
 
     ul {
         position: absolute;
         top: 22%;
-        left: 36%;
+        left: 40%;
         transform: translate(0%, -30%);
     }
 
@@ -268,73 +272,73 @@ div#latina {
     }
 
     div#pessoais {
-        width: 820px;
-        height: 313px;
+        width: 970px;
+        height: 365px;
     }
     
     div#objetivo {
-        width: 820px;
+        width: 970px;
         height: 120px;
     }
     
     div#caracteristicas {
-        width: 820px;
+        width: 970px;
         height: 237px;
     }
     
     div#java {
-        width: 820px;
+        width: 970px;
         height: 270px;
     }
     
     div#html {
-        width: 820px;
-        height: 240px;
+        width: 970px;
+        height: 238px;
     }
     
     div#excel {
-        width: 820px;
-        height: 240px;
+        width: 970px;
+        height: 238px;
     }
     
     div#fatec {
-        width: 820px;
-        height: 202px;
+        width: 970px;
+        height: 200px;
     }
     
     div#micro {
-        width: 820px;
-        height: 204px;
+        width: 970px;
+        height: 200px;
     }
     
     div#gestao {
-        width: 820px;
-        height: 204px;
+        width: 970px;
+        height: 200px;
     }
     
     div#ingles {
-        width: 820px;
-        height: 204px;
+        width: 970px;
+        height: 200px;
     }
     
     div#patru {
-        width: 820px;
-        height: 204px;
+        width: 970px;
+        height: 200px;
     }
     
     div#linx {
-        width: 820px;
-        height: 275px;
+        width: 970px;
+        height: 253px;
     }
     
     div#selecont {
-        width: 820px;
-        height: 243px;
+        width: 970px;
+        height: 241px;
     }
     
     div#latina {
-        width: 820px;
-        height: 265px;
+        width: 970px;
+        height: 246px;
     }
 }
 
@@ -468,6 +472,43 @@ div#latina {
     div#latina {
         width: 1250px;
         height: 288px;
+    }
+
+}
+
+@media print {
+    div > h4#concluido {
+        font-size: 1.4em;
+
+        position: absolute;
+        top: 6%;
+        left: 31%;
+        transform: translate(15%, -30%);
+    }
+
+    div > h1 {
+        font-size: 2em;
+
+        position: absolute;
+        top: 1%;
+        left: 15%;
+        transform: translate(45%, -30%);
+    }
+
+    ul {
+        position: absolute;
+        top: 15%;
+        left: 27%;
+        transform: translate(0%, -30%);
+    }
+
+    div#foto {
+        width: 100px;
+        height: 125px;
+
+        position: absolute;
+        left: 7%;
+        top: 5%;
     }
 
 }
