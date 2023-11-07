@@ -53,6 +53,7 @@ div > h4#concluido {
 }
 
 ul > li {
+    text-align: left;
     padding-bottom: 8px;
     margin-left: 0px;
     padding-left: 3px;
