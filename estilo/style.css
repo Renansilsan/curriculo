@@ -63,8 +63,11 @@ div#foto {
     width: 95px;
     margin-top: 20px;
     padding-top: 20px;
-    background-image: url(imagem/Aurora\ Boreal\ 650.jpg);
+    background-image: url(imagem/WhatsApp\ Image\ 2023-11-07\ at\ 12.39.11\ \(1\)\ \(1\)\ \(1\).png);
     background-repeat: no-repeat;
+    background-position: center bottom;
+    border: none;
+    
 
     position: absolute;
     top: 5%;
