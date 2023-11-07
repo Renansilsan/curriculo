@@ -63,11 +63,6 @@ div#foto {
     width: 95px;
     margin-top: 20px;
     padding-top: 20px;
-    background-image: url(imagem/WhatsApp\ Image\ 2023-11-07\ at\ 12.39.11\ \(1\)\ \(1\)\ \(1\).png);
-    background-repeat: no-repeat;
-    background-position: center bottom;
-    border: none;
-    
 
     position: absolute;
     top: 5%;
@@ -229,6 +224,11 @@ div#latina {
     div#foto {
         width: 240px;
         height: 238px;
+        margin-top: 20px;
+        padding-top: 20px;
+        background-image: url(imagem/WhatsApp\ Image\ 2023-11-07\ at\ 12.39.11\ \(1\)\ \(1\)\ \(1\).png);
+        background-repeat: no-repeat;
+        background-position: center bottom;
 
         position: absolute;
         top: 7%;
