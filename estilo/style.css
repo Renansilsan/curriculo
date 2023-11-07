@@ -37,7 +37,6 @@ div > h1 {
     font-size: 1.9em;
     text-align: center;
     }
-}
 
 div#cabeçalho {
     width: 385px;
@@ -55,6 +54,7 @@ div > h4#concluido {
 
 ul > li {
     padding-bottom: 8px;
+    margin-left: 5px;
 }
 
 h2 {
