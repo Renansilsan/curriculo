@@ -40,14 +40,14 @@ div > h1 {
 
 div#cabeçalho {
     width: 385px;
-    height: 230px;
+    height: 235px;
     margin: auto;
     background-color: white;
 }
 
 div > h4#concluido {
     font-size: 1.4em;
-    margin-left: 25px;
+    margin-left: 29px;
     padding-top: 7px;
     
 }
