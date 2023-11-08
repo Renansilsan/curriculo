@@ -307,7 +307,7 @@ div#latina {
     }
 }
 
-@media screen and (min-width: 1200px) and (max-width: 1700px) {
+@media screen and (min-width: 1200px) {
 
     body {
         font-size: 1.3em;
@@ -414,114 +414,6 @@ div#latina {
         height: 288px;
     }
 
-}
-
-@media screen and (min-width: 1700px) {
-    body {
-        font-size: 1.3em;
-    }
-
-    div#cabeçalho {
-        width: 1250px;
-        height: 440px;
-    }
-
-    div > h4#concluido {
-        font-size: 1.4em;
-
-        text-align: left;
-    }
-
-    div > h1 {
-        font-size: 2em;
-    }
-
-    ul > li {
-        font-size: 1.2em;
-    }
-
-    h2 {
-        margin-bottom: 0px;
-        height: 32px;
-        font-size: 1.5em;
-    }
-
-    h3 {
-        height: 25px;
-        font-size: 1.2em;
-        margin-bottom: 10px;
-        margin-top: 0px;
-    }
-
-    div#pessoais {
-        width: 1250px;
-        height: 370px;
-    }
-    
-    div#objetivo {
-        width: 1250px;
-        height: 115px;
-    }
-    
-    div#caracteristicas {
-        width: 1250px;
-        height: 275px;
-    }
-    
-    div#java {
-        width: 1250px;
-        height: 316px;
-    }
-    
-    div#html {
-        width: 1250px;
-        height: 275px;
-    }
-    
-    div#excel {
-        width: 1250px;
-        height: 275px;
-    }
-    
-    div#fatec {
-        width: 1250px;
-        height: 228px;
-    }
-    
-    div#micro {
-        width: 1250px;
-        height: 228px;
-    }
-    
-    div#gestao {
-        width: 1250px;
-        height: 228px;
-    }
-    
-    div#ingles {
-        width: 1250px;
-        height: 228px;
-    }
-    
-    div#patru {
-        width: 1250px;
-        height: 228px;
-    }
-    
-    div#linx {
-        width: 1250px;
-        height: 295px;
-    }
-    
-    div#selecont {
-        width: 1250px;
-        height: 280px;
-    }
-    
-    div#latina {
-        width: 1250px;
-        height: 288px;
-    }
 }
 
 @media print {
