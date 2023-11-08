@@ -428,6 +428,7 @@ div#latina {
 
     div > h4#concluido {
         font-size: 1.4em;
+        text-align: left;
         margin-left: 2px;
     }
 
@@ -526,24 +527,16 @@ div#latina {
 @media print {
     div > h4#concluido {
         font-size: 1.4em;
+        
     }
 
     div > h1 {
         font-size: 2em;
     }
 
-    ul {
-        position: absolute;
-        top: 15%;
-        left: 27%;
-        transform: translate(0%, -30%);
-    }
-
-
-
     div#cabeçalho {
         width: 385px;
-        height: 205px;
+        height: 230px;
     }
 
     div#pessoais {        
