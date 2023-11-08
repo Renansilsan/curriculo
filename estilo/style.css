@@ -428,9 +428,8 @@ div#latina {
 
     div > h4#concluido {
         font-size: 1.4em;
-        
-        position: absolute;
-        left: 5%;
+
+        text-align: left;
     }
 
     div > h1 {
