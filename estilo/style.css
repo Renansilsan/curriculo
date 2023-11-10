@@ -40,7 +40,7 @@ div > h1 {
 
 div#cabeçalho {
     width: 385px;
-    height: 252px;
+    height: 270px;
     margin: auto;
     background-color: white;
 }
@@ -128,14 +128,6 @@ div#excel {
     background-color: white;
 }
 
-div#fatec {
-    width: 385px;
-    height: 117px;
-    margin: auto;
-    margin-top: 10px;
-    background-color: white;
-}
-
 div#micro {
     width: 385px;
     height: 117px;
@@ -144,23 +136,7 @@ div#micro {
     background-color: white;
 }
 
-div#gestao {
-    width: 385px;
-    height: 117px;
-    margin: auto;
-    margin-top: 10px;
-    background-color: white;
-}
-
 div#ingles {
-    width: 385px;
-    height: 117px;
-    margin: auto;
-    margin-top: 10px;
-    background-color: white;
-}
-
-div#patru {
     width: 385px;
     height: 117px;
     margin: auto;
